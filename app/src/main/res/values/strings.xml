@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WaadsuTestTask</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="snackbar_maps_tittle_text">Данные не загрузулись :(</string>
+    <string name="snackbar_maps_action">Повторить</string>
+</resources>
